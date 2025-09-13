@@ -1,4 +1,5 @@
-🎮 Breakout Game – Junior Programmer Pathway Project
+<h2>🎮 Breakout Game – Junior Programmer Pathway Project</h2>
+
 This project is part of the Unity Junior Programmer Pathway and is built as a learning exercise to practice:
 - Unity game development fundamentals
 - C# scripting
